@@ -1,0 +1,9 @@
+[build]
+builder = "DOCKERFILE"
+
+[deploy]
+startCommand = "n8n start"
+
+[[mounts]]
+source="n8n_data"
+destination="/home/node/.n8n"
