@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "id": "auto",
+    "features": {
+      "infrax": "v2"
+    }
+  }
+}
